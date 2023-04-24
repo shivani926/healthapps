@@ -1,3 +1,0 @@
-streamlit run "C:\Users\siddhardhan\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
-
-streamlit run "C:\Users\tiwar\Downloads\Multiple Disease Prediction System-20230219T142226Z-001\Multiple Disease Prediction System\multiple disease pred.py"
